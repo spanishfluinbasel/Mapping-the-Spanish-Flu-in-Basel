@@ -5,3 +5,5 @@ Hunziker, Hans; Jenny, O. H.: Die Influenza-Epidemie in Basel vom Juni 1918 bis 
 To access the maps download the html files marked as 00. 
 
 To look at my code using jupyter notebook access the 01 files and 02 are the csv files.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8312765.svg)](https://doi.org/10.5281/zenodo.8312765)
